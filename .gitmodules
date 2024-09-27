@@ -1,3 +1,6 @@
 [submodule "apex-node"]
 	path = apex-node
 	url = https://github.com/ac4pwho1/apex-node
+[submodule "apex-ts"]
+	path = apex-ts
+	url = https://github.com/ac4pwho1/apex-ts
